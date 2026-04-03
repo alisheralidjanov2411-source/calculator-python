@@ -19,3 +19,8 @@ This project was created to practice basic programming concepts such as user inp
 
 ## Author
 Alisher Alidjanov
+
+## Future Improvements
+- Add graphical interface
+- Improve user experience
+- Add more features
